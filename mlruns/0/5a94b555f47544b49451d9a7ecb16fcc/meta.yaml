@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a6833/Desktop/LLM_WorkShop/mlruns/0/5a94b555f47544b49451d9a7ecb16fcc/artifacts
+end_time: 1731059273972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a94b555f47544b49451d9a7ecb16fcc
+run_name: dazzling-hog-467
+run_uuid: 5a94b555f47544b49451d9a7ecb16fcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731059273930
+status: 3
+tags: []
+user_id: a6833

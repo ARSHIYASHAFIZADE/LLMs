@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a6833/Desktop/LLM_WorkShop/mlruns/0/e2af6ea7360f4f999f261b1b9743ef07/artifacts
+end_time: 1731059044204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2af6ea7360f4f999f261b1b9743ef07
+run_name: handsome-lark-129
+run_uuid: e2af6ea7360f4f999f261b1b9743ef07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731059044127
+status: 3
+tags: []
+user_id: a6833

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a6833/Desktop/LLM_WorkShop/mlruns/0/dff5c009ab7d496680de532ae16683f7/artifacts
+end_time: 1731059466439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dff5c009ab7d496680de532ae16683f7
+run_name: melodic-loon-825
+run_uuid: dff5c009ab7d496680de532ae16683f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731059466381
+status: 3
+tags: []
+user_id: a6833
