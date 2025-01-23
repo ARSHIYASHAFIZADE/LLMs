@@ -13,6 +13,8 @@ Features
 Live Demo
 Try the app live on Streamlit:
 Recruitment Helper - AI Assistant for Job Matching
+https://lnbav68d8yctg9maxfxsmv.streamlit.app/
+
 
 Getting Started
 1. Prerequisites
